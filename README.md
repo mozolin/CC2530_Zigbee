@@ -1,6 +1,9 @@
 URL: https://github.com/mozolin/CC2530_Zigbee  
 # Example: BMX280 sensors with CC2530 (PTVO Firmware Config & SmartRF Flash Programmer)  
 
+Zigbe2MQTT Settings:  
+- [Example: Zigbee2MQTT CC2538 settings for ESP32-C3, ESP32-C6 and CC2530](https://github.com/mozolin/Zigbee2MQTT_CC2538)  
+  
 Official PTVO docs: [How to select and flash CC2530](https://ptvo.info/how-to-select-and-flash-cc2530-144/)
   
 1) connect CC2530 to SmartRF04EB (CC-Debugger)  
