@@ -1,4 +1,4 @@
-URL: https://github.com/mozolin/CC2538_Zigbee  
+URL: https://github.com/mozolin/CC2530_Zigbee  
 # Example: BMX280 sensors with CC2530 (PTVO Firmware Config & SmartRF Flash Programmer)  
 
 Official PTVO docs: [How to select and flash CC2530](https://ptvo.info/how-to-select-and-flash-cc2530-144/)
