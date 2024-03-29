@@ -1,0 +1,14 @@
+Board type: CC2530 + CC2591
+Device type: Router
+ Transmit enable (TXEN): P12, Receive enable (RXEN): P14
+Manufacturer name: MIKE
+Model ID: MIKE.CC2530
+Location description: Russia
+Update firmware's timestamp : 2024-02-16
+Enable watchdog timer: Yes
+Status LED: P05, Sending reports
+Set default reporting interval (s): 10
+
+Output pins:
+P13: Output 1, DS18B20, External pull-up (Sensor ID (optional, hex): FF-FF-FF-FF-FF-FF-FF-FF, Mode: Single, Auto-detect)
+P15: Output 2, DS18B20, External pull-up (Sensor ID (optional, hex): FF-FF-FF-FF-FF-FF-FF-FF, Mode: Single, Auto-detect)

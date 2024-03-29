@@ -1,0 +1,13 @@
+Board type: CC2530 + CC2591
+Device type: Router
+ Transmit enable (TXEN): P12, Receive enable (RXEN): P14
+Manufacturer name: MIKE
+Model ID: MIKE.CC2530
+Location description: Russia
+Status LED: P05, Sending reports
+Set default reporting interval (s): 10
+
+Output pins:
+P15: Output 1, DS18B20, External pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-01, Mode: Fixed ID)
+P15: Output 2, DS18B20, External pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-02, Mode: Fixed ID)
+P15: Output 3, DS18B20, External pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-03, Mode: Fixed ID)

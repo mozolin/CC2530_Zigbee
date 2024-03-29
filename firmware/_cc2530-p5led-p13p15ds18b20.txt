@@ -1,0 +1,10 @@
+Board type: CC2530 + CC2591
+Device type: Router
+ Transmit enable (TXEN): P12, Receive enable (RXEN): P14
+Update firmware's timestamp : 2024-02-06
+Status LED: P05, Periodic (every 5 seconds)
+Set default reporting interval (s): 60
+
+Output pins:
+P13: Output 1, DS18B20, External pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01, Mode: Single, Auto-detect)
+P15: Output 2, DS18B20, External pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-02, Mode: Single, Auto-detect)
