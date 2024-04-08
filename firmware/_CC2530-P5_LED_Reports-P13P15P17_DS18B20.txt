@@ -8,6 +8,6 @@ Status LED: P05, Sending reports
 Set default reporting interval (s): 10
 
 Output pins:
-P17: Output 1, DS18B20, External pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-01, Mode: Single, Auto-detect)
+P17: Output 1, DS18B20, Pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-01, Mode: Single, Auto-detect)
 P15: Output 2, DS18B20, Pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-02, Mode: Single, Auto-detect)
 P13: Output 3, DS18B20, Pull-up (Sensor ID (optional, hex): AA-BB-CC-DD-EE-FF-01-03, Mode: Single, Auto-detect)
