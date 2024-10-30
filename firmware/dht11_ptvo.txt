@@ -1,0 +1,11 @@
+Board type: CC2530 + CC2591
+Device type: End device without routing
+ Transmit enable (TXEN): P12, Receive enable (RXEN): P14
+Manufacturer name: Texas Instrument
+Model ID: MIKE.CC2530
+Location description: Russia
+Status LED: P10 (Inversed), Sending reports
+Set default reporting interval (s): 10
+
+Output pins:
+P06: Output 1, Temperature sensor (1-wire), External pull-up (Type: DHT11)
